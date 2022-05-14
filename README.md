@@ -1,1 +1,3 @@
-# CloudComputing-Project
+Proiect Cloud Computing
+
+Delia-Alina
