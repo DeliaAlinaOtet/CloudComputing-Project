@@ -17,7 +17,7 @@ Spre exemplu: temperatura in timp real si condițiile meteorologice prin interme
 
 ## Interfața utilizator
 Aplicatia afiseaza by default datele despre vremea din Bucuresti.
-<add image>
+![app_img1](https://user-images.githubusercontent.com/105169016/168426522-5e06735e-9477-4269-b968-fd0c95ddea45.png)
 
 Introducere parametrii si obținere rezultat
 <add image>
