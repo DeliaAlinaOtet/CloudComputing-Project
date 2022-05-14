@@ -20,7 +20,7 @@ Aplicatia afiseaza by default datele despre vremea din Bucuresti.
 ![app_img1](https://user-images.githubusercontent.com/105169016/168426522-5e06735e-9477-4269-b968-fd0c95ddea45.png)
 
 Introducere parametrii si obținere rezultat
-<add image>
+![app-img2](https://user-images.githubusercontent.com/105169016/168426628-4e6f567b-d242-4ed6-9fc0-39803005b46f.png)
 
 
 ## Tehnologii
