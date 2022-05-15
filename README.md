@@ -14,13 +14,11 @@
 
 ## Introducere
 
-Aplicatia se numeste: Forecast Weather Application
-Delia-Alina Otet 
-Grupa 1118
-
-Link prezentare youtube:
-
-Link publicare: `"https://main.d3w4nx850w7jz8.amplifyapp.com/"`
+* Aplicatia se numeste: Forecast Weather Application
+* Delia-Alina Otet 
+* Grupa 1118
+* Link prezentare youtube:
+* Link publicare: https://main.d3w4nx850w7jz8.amplifyapp.com/
 
 
 ## Descriere problema
