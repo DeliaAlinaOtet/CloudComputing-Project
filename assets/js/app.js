@@ -3,7 +3,6 @@ var API_KEY = "6841e5450643e5d4ff59981dbf58944e";
 
 // -- On load --
 $(document).ready(function(){
-    // If geolocation is not supported, hide the geolocaion icon
     if (!navigator.geolocation){
         $('#geolocation').hide();
     }
@@ -67,7 +66,6 @@ $("#meteo-form").submit(function (event) {
             loading.attr('class', 'loading')
         }, 500);
     });
-    // Don't refresh the page
     return false;
 });
 

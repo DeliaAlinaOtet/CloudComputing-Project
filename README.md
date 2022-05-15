@@ -2,6 +2,7 @@
 > Aplicatia serveste la afisarea prognozei meteo atat pentru ziua curenta cat si pe urmatoarele 2 zile.
 
 ## Cuprins
+* [Introducere](#introducere)
 * [Descriere problemă](#descriere-problemă)
 * [Interfață utilizator](#Interfată-utiliator)
 * [Tehnologii](#tehnologii)
@@ -10,6 +11,17 @@
 * [Flux de date](#flux-date)
 * [Referinte](#referinte)
 * [Contact](#contact)
+
+## Introducere
+
+Aplicatia se numeste: Forecast Weather Application
+Delia-Alina Otet 
+Grupa 1118
+
+Link prezentare youtube:
+
+Link publicare: `"https://main.d3w4nx850w7jz8.amplifyapp.com/"`
+
 
 ## Descriere problema
 Aplicatia detectează automat detalii despre vremea dintr-o anumita locatie. 
@@ -21,6 +33,7 @@ Aplicatia afiseaza by default datele despre vremea din Bucuresti.
 
 Introducere parametrii si obținere rezultat
 ![app-img2](https://user-images.githubusercontent.com/105169016/168426628-4e6f567b-d242-4ed6-9fc0-39803005b46f.png)
+
 
 
 ## Tehnologii
