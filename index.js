@@ -12,10 +12,6 @@ app.use('/img', express.static(__dirname + 'assets/img'))
 app.use('/js', express.static(__dirname + 'assets/js'))
 
 
-app.get('/', (req, res) => {
-  res.send('Hello World again!')
-});
-
 app.listen(port, () => {
-  console.log(`Example app listening on port ${port}!`)
+  console.log(`Cloud Computing application is listening on port ${port}!`)
 });

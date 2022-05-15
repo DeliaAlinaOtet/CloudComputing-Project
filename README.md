@@ -17,7 +17,7 @@
 * Aplicatia se numeste: Forecast Weather Application
 * Delia-Alina Otet 
 * Grupa 1118
-* Link prezentare youtube:
+* Link prezentare youtube: https://youtu.be/7aCdH-F-8rY
 * Link publicare: https://main.d3w4nx850w7jz8.amplifyapp.com/
 
 
